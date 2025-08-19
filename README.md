@@ -12,3 +12,9 @@
 - ^
 - ^
 - Stufe 5: ^
+
+## Shop Übersicht
+- Menu mit allen Shops, am besten deren Verkaufitem als symbol
+- sortierbar nach Verkaufen/Ankaufen, Preis und Item
+- Item Suche
+- Standart suche nach meisten Käufen/Verkäufen 
