@@ -1,7 +1,7 @@
 # surf-shop-idea-factory
 ## Wie bekomme ich einen Shop
-- Shop Lizenz kaufen (1x)
-- Shop Item kaufen (pro Shop-Block)
+- Shop Lizenz kaufen (einmalig)
+- Shop Item kaufen (pro Shop-Block, nur möglich nach kauf einer Shop Lizenz)
 - Shop Block an gewünschten ort platzieren
 > Jeweils für einen angemessenden Preis in CastCoins
 
