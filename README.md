@@ -17,4 +17,9 @@
 - Menu mit allen Shops, am besten deren Verkaufitem als symbol
 - sortierbar nach Verkaufen/Ankaufen, Preis und Item
 - Item Suche
-- Standart suche nach meisten Käufen/Verkäufen 
+- Standart suche nach meisten Käufen/Verkäufen
+
+## Shop Insel
+- groß genug für ~100 Shops
+- möglichst einfach erweiterbar
+- In Zonen eingeteilt
